@@ -37,6 +37,7 @@ Check out the live version of TaskFlow here:
 ## **Screenshots**
 
 ![TaskFlow Screenshot]
+
 <img width="1920" height="933" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/436b5e77-7961-4079-8f76-8c475d1b9be0" />
 
 The screenshot above shows the TaskFlow dashboard in dark theme.  
