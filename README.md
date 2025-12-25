@@ -36,8 +36,11 @@ Check out the live version of TaskFlow here:
 
 ## **Screenshots**
 
-![TaskFlow Screenshot](screenshot.png)  
-*Replace `screenshot.png` with your actual screenshot file if available.*
+![TaskFlow Screenshot](<img width="1920" height="933" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/436b5e77-7961-4079-8f76-8c475d1b9be0" />)
+
+The screenshot above shows the TaskFlow dashboard in dark theme.  
+You can see the **task list**, **status badges**, **priority indicators**, and the **sidebar summary** with completion stats.  
+The app allows you to **add, edit, delete, and search tasks** with real-time updates.
 
 ---
 
